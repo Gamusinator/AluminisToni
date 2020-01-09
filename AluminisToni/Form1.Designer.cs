@@ -2,6 +2,7 @@
 {
     partial class Form1
     {
+        //Commit 1 porfin joder
         /// <summary>
         /// Required designer variable.
         /// </summary>
