@@ -19,20 +19,20 @@ namespace AluminisToni
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close(); //cierra el formulario
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            new FormSeries().Show();
+            new FormSeries().Show(); //abre el formulario series
         }
         private void button3_Click(object sender, EventArgs e)
         {
-            new FormClientes().Show();
+            new FormClientes().Show(); //abre el formulario clientes
         }
         private void button4_Click(object sender, EventArgs e)
         {
-            new FormCristales().Show();
+            new FormCristales().Show(); //abre el formulario cristales
         }
 
     }
