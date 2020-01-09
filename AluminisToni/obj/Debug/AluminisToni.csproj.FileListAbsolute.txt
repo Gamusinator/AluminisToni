@@ -1,0 +1,12 @@
+D:\Dani\Repositori\AluminisToni\bin\Debug\AluminisToni.exe.config
+D:\Dani\Repositori\AluminisToni\bin\Debug\AluminisToni.exe
+D:\Dani\Repositori\AluminisToni\bin\Debug\AluminisToni.pdb
+D:\Dani\Repositori\AluminisToni\obj\Debug\AluminisToni.csprojAssemblyReference.cache
+D:\Dani\Repositori\AluminisToni\obj\Debug\AluminisToni.Form1.resources
+D:\Dani\Repositori\AluminisToni\obj\Debug\AluminisToni.Properties.Resources.resources
+D:\Dani\Repositori\AluminisToni\obj\Debug\AluminisToni.csproj.GenerateResource.cache
+D:\Dani\Repositori\AluminisToni\obj\Debug\AluminisToni.exe
+D:\Dani\Repositori\AluminisToni\obj\Debug\AluminisToni.pdb
+D:\Dani\Repositori\AluminisToni\obj\Debug\AluminisToni.FormCristales.resources
+D:\Dani\Repositori\AluminisToni\obj\Debug\AluminisToni.FormClientes.resources
+D:\Dani\Repositori\AluminisToni\obj\Debug\AluminisToni.FormSeries.resources
